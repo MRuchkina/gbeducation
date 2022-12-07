@@ -1,0 +1,15 @@
+C:\GBEducation\Lecture1\Excercise2\bin\Debug\net6.0\Excercise2.exe
+C:\GBEducation\Lecture1\Excercise2\bin\Debug\net6.0\Excercise2.deps.json
+C:\GBEducation\Lecture1\Excercise2\bin\Debug\net6.0\Excercise2.runtimeconfig.json
+C:\GBEducation\Lecture1\Excercise2\bin\Debug\net6.0\Excercise2.dll
+C:\GBEducation\Lecture1\Excercise2\bin\Debug\net6.0\Excercise2.pdb
+C:\GBEducation\Lecture1\Excercise2\obj\Debug\net6.0\Excercise2.csproj.AssemblyReference.cache
+C:\GBEducation\Lecture1\Excercise2\obj\Debug\net6.0\Excercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GBEducation\Lecture1\Excercise2\obj\Debug\net6.0\Excercise2.AssemblyInfoInputs.cache
+C:\GBEducation\Lecture1\Excercise2\obj\Debug\net6.0\Excercise2.AssemblyInfo.cs
+C:\GBEducation\Lecture1\Excercise2\obj\Debug\net6.0\Excercise2.csproj.CoreCompileInputs.cache
+C:\GBEducation\Lecture1\Excercise2\obj\Debug\net6.0\Excercise2.dll
+C:\GBEducation\Lecture1\Excercise2\obj\Debug\net6.0\refint\Excercise2.dll
+C:\GBEducation\Lecture1\Excercise2\obj\Debug\net6.0\Excercise2.pdb
+C:\GBEducation\Lecture1\Excercise2\obj\Debug\net6.0\Excercise2.genruntimeconfig.cache
+C:\GBEducation\Lecture1\Excercise2\obj\Debug\net6.0\ref\Excercise2.dll
