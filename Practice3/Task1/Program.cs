@@ -5,6 +5,8 @@
 
     Console.WriteLine("Введите координату Y:");
     int y = Convert.ToInt32(Console.ReadLine());
+
+    CheckKoord (x, y);
 }
 catch
 {
